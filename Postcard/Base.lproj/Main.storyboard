@@ -13,6 +13,7 @@
                         <viewControllerLayoutGuide type="bottom" id="0yN-0O-SAX"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleAspectFill" id="Slb-fU-7Bv">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="FP5021.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="qTM-Jg-Cry">
